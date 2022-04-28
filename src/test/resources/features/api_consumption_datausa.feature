@@ -1,7 +1,7 @@
 #Author: edisson.castronunez@tcs.com
 #Languaje: EN
 
-Feature: As a user I want to cosume the service for validations
+Feature: As a user I want to consume the service for validations
 
   @Sce1
   Scenario Outline: general fields validate

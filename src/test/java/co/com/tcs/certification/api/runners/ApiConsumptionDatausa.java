@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src\\test\\resources\\features\\api_consumption_datausa.feature",
         glue = "co.com.tcs.certification.api.stepdefinitions",
-        tags = "@Sce2",
+        tags = "@Sce1",
         snippets = SnippetType.CAMELCASE
 )
 public class ApiConsumptionDatausa {
